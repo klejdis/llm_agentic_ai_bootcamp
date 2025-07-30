@@ -9,3 +9,19 @@ The bootcamp is structured into several modules, each focusing on different aspe
 - **Module 5**: Real-world applications and case studies.
 - **Module 6**: Best practices and future trends in LLMs.
 - **Module 7**: Final project and evaluation.
+
+### Getting Started
+To get started with the bootcamp, follow these steps:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/klejdis/llm_agentic_ai_bootcamp.git
+    ```
+2. Navigate to the project directory:
+3. Install the required dependencies:
+   ```bash
+   poetry install
+   ```
+4. Run the jupyter notebook:
+   ```bash
+   poetry run jupyter lab
+   ```

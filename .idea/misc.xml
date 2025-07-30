@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.11 (modeling-api)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (modeling-api)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (llm_agentic_ai_bootcamp)" project-jdk-type="Python SDK" />
 </project>
